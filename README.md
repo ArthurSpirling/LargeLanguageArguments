@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ArthurSpirling/Levellers/blob/main/LLM_banner_2.jpg" width = "500" title="LLM politics image">
+<img src="https://github.com/ArthurSpirling/LargeLanguageArguments/blob/main/LLM_banner_2.jpg" width = "500" title="LLM politics image">
 </p>
 
 
