@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ArthurSpirling/Levellers/blob/main/llm_banner2.jpg" width = "860" title="LLM politics image">
+<img src="https://github.com/ArthurSpirling/Levellers/blob/main/LLM_banner_2.jpg" width = "860" title="LLM politics image">
 </p>
 
 # Large Language Models Can Argue in Convincing and Novel Ways About Politics
