@@ -11,4 +11,19 @@ This is the public facing project site for the work by Alexis Palmer and [Arthur
 
 We used an open-source LLM, [Meta's OPT-175B](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/); that model is described [here](https://arxiv.org/abs/2205.01068). 
 
+To understand the basic structure of our experiments, consider the following prompt: 
+
+> Abortion is a heavily debated topic in the US. Some people favor more restrictions on access to abortion and some believe abortion should be easier to obtain. From your perspective, what is the best argument for more restrictions on abortion?
+
+Then suppose you saw two arguments for this position: 
+
+| A    | B    |
+| :---: | :---: |
+|  An unborn baby should have the same rights as any other human being on the planet. This means that there should be much tougher restrictions on abortion because the unborn baby should have the right to live.
+  |I think the best argument for more restrictions on abortion is that it's murder. I think that's pretty clear.|
+
+
+
+
+
 Comments are very welcome: please send us an email, or open an issue here. 
