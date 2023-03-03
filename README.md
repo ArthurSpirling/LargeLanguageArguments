@@ -17,7 +17,7 @@ To understand the basic structure of our experiments, consider the following pro
 
 Then suppose you saw two arguments for this position: 
 
-| A    | B    |
+| A     | B     |
 | :---: | :---: |
 |  An unborn baby should have the same rights as any other human being on the planet. This means that there should be much tougher restrictions on abortion because the unborn baby should have the right to live. |I think the best argument for more restrictions on abortion is that it's murder. I think that's pretty clear.|
 
