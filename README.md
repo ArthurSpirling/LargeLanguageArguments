@@ -13,7 +13,7 @@ The abstract for that paper is
 
 ### Overview
 
-We used an open-source LLM, [Meta's OPT-175B](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/); that model is described [here](https://arxiv.org/abs/2205.01068). 
+We used an open-source LLM, [Meta's OPT-30B](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/); that model is described [here](https://arxiv.org/abs/2205.01068). 
 
 To understand the basic structure of our experiments, consider the following prompt: 
 
