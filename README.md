@@ -5,7 +5,7 @@
 
 # Large Language Models Can Argue in Convincing and Novel Ways About Politics
 
-This is the public facing project site for the work by [Alexis Palmer](https://lexipalmer13.github.io/) and [Arthur Spirling](http://arthurspirling.org/) on Large Language Models (LLMs) and argumentation. Specifically, the current version of their paper *Large Language Models Can Argue in Convincing and Novel Ways About Politics: Evidence from Experiments and Human Judgement* is stored [here](https://github.com/ArthurSpirling/LargeLanguageArguments/blob/main/Palmer_Spirling_LLM_March.pdf). 
+This is the public facing project site for the work by [Alexis Palmer](https://lexipalmer13.github.io/) and [Arthur Spirling](http://arthurspirling.org/) on Large Language Models (LLMs) and argumentation. Specifically, the current version of their paper *Large Language Models Can Argue in Convincing and Novel Ways About Politics: Evidence from Experiments and Human Judgement* is stored [here](https://github.com/ArthurSpirling/LargeLanguageArguments/blob/main/Palmer_Spirling_LLM_March_7_2023.pdf). 
 
 The abstract for that paper is
 
