@@ -5,14 +5,16 @@
 
 # Large Language Models Can Argue in Convincing and Novel Ways About Politics
 
-This is the public facing project site for the work by [Alexis Palmer](https://lexipalmer13.github.io/) and [Arthur Spirling](http://arthurspirling.org/) on Large Language Models (LLMs) and argumentation. Specifically, the current version of their paper *Large Language Models Can Argue in Convincing and Novel Ways About Politics: Evidence from Experiments and Human Judgement* is stored [here](https://github.com/ArthurSpirling/LargeLanguageArguments/blob/main/Palmer_Spirling_LLM_May_18_2023.pdf). 
+This is the public facing project site for the work by [Alexis Palmer](https://lexipalmer13.github.io/) and [Arthur Spirling](http://arthurspirling.org/) on Large Language Models (LLMs) and argumentation. Specifically, their paper "Large Language Models Can Argue in Convincing Ways About Politics, But Humans Dislike AI Authors: implications for Governance".  That paper is [now published](https://www.tandfonline.com/doi/full/10.1080/00323187.2024.2335471) (online) as
 
-The abstract for that paper is
+> Palmer, A., & Spirling, A. (2024). Large Language Models Can Argue in Convincing Ways About Politics, But Humans Dislike AI Authors: implications for Governance. Political Science, 1–11. https://doi.org/10.1080/00323187.2024.2335471 
 
-> All politics relies on rhetorical appeals. Part creative art, part engineering, the ability to be politically persuasive is considered perhaps uniquely human. But recent times have seen successful large language model (LLM) applications to many such areas of endeavor. Here, we explore whether these transformer approaches can out-compete humans in making political and policy appeals. Our areas of interest include controversial partisan issues in the US, such as abortion and immigration, but also more banal matters. We curate responses from crowdsourced US workers and an open-source LLM to produce “best”
-arguments and place them in competition with one another. Human (crowd) judges make decisions about the relative strength of their (human v machine) efforts. We have three empirical “possibility” results. First, LLMs are capable of producing arguments on a par with humans, at least in terms of convincing
-independent judges. Second, we show that LLMs produce novel arguments insofar as their output has different characteristics to that produced by humans. LLM arguments are typically easier to read, and written with slightly more positive affectation. But LLM arguments can lack nuance—at least if the goal
-is to convince others of their merits. Finally, we demonstrate that while judges initially show no overall preference for human or LLM arguments, they prefer human ones when informed about the orator’s true identity in a randomized controlled experiment.
+The abstract for the paper is
+
+> All politics relies on rhetorical appeals, and the ability to make arguments is considered perhaps uniquely human. But as recent times have seen successful large language model (LLM) applications to similar endeavours, we explore whether these approaches can out-compete humans in making appeals for/against various positions in US politics. We curate responses from crowdsourced workers and an LLM and place them in competition with one another. Human (crowd) judges make decisions about the relative strength of their (human v machine) efforts. We have several empirical ‘possibility’ results. First, LLMs can produce novel arguments that convince independent judges at least on a par with human efforts. Yet when informed about an orator’s true identity, judges show a preference for human over LLM arguments. This may suggest voters view such models as potentially dangerous; we think politicians should be aware of related ‘liar’s dividend’ concerns.
+
+You can find a preprint [here](https://github.com/ArthurSpirling/LargeLanguageArguments/files/15013693/preprint.pdf) and the Supporting Information [here](https://github.com/ArthurSpirling/LargeLanguageArguments/files/15013674/SI_LLM.pdf)
+
 
 ### Overview
 
@@ -33,4 +35,4 @@ Which do *you* prefer?  That is, which do you think makes a better case for the 
 Now suppose you knew (as was the case here, in fact) that argument **A** was produced by a human, but argument **B** was produced by an LLM.  Would this change your mind as to your preference?  We found that for many humans, across multiple topics, it did: they generally preferred arguments from *other* humans, rather than from machines.  And this effect is statistically significant.  We can make some *causal* claims here, because the information about the true identity of the authors was part of a randomized controlled experiment. 
 
 ### Feedback
-Comments are very welcome: please send us an email, or open an issue here. 
+Though now published, your comments are still very welcome: please send us an email, or open an issue here. 
