@@ -16,6 +16,7 @@ The abstract for the paper is
 You can find a preprint [here](https://github.com/ArthurSpirling/LargeLanguageArguments/files/15013693/preprint.pdf) and the Supporting Information [here](https://github.com/ArthurSpirling/LargeLanguageArguments/files/15013674/SI_LLM.pdf)
 
 
+
 ### Overview
 
 We used an open-source LLM, [Meta's OPT-30B](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/); that model is described [here](https://arxiv.org/abs/2205.01068). We used [this implementation](https://huggingface.co/facebook/opt-30b).
@@ -34,5 +35,9 @@ Which do *you* prefer?  That is, which do you think makes a better case for the 
 
 Now suppose you knew (as was the case here, in fact) that argument **A** was produced by a human, but argument **B** was produced by an LLM.  Would this change your mind as to your preference?  We found that for many humans, across multiple topics, it did: they generally preferred arguments from *other* humans, rather than from machines.  And this effect is statistically significant.  We can make some *causal* claims here, because the information about the true identity of the authors was part of a randomized controlled experiment. 
 
-### Feedback
+### Feedback and thanks
+Patrick Chester, Yaoyao Dai and Philip Resnick provided very helpful comments on an earlier version of the paper.  We  thank audiences at APSA, Meta, MPSA and the Text as Data conferences for feedback.  Two anonymous referees helped improve our paper considerably.
+
 Though now published, your comments are still very welcome: please send us an email, or open an issue here. 
+
+
